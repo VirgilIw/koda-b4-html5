@@ -17,3 +17,4 @@ Form HTML sederhana untuk survei perokok.
 3. Klik **Submit** untuk mengirim atau **Reset** untuk menghapus isian.
 
 ![form html survei perokok](./assets/img/image.png)
+![form html survei perokok](./assets/img/image2.png)
